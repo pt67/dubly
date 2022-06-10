@@ -1,2 +1,2 @@
 ## dubly
-Dubly is simple application
+Dubly is React Native simple CRUD application
